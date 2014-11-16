@@ -1,0 +1,8 @@
+ros-hydro-twist-mux-msgs (0.0.1-1quantal) quantal; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Enrique Fernandez <enrique.fernandez@pal-robotics.com>  Wed, 12 Nov 2014 23:00:00 -0000
+
+
